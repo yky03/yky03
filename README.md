@@ -13,10 +13,10 @@ My brief profile is below.
 - 정보처리기사(Engineer Information Processing)  
 
 ⚡ **Interest**
-- problem-solving skills   
+- Problem Solving skills   
 - Spring with Java, Kotlin  
 - RDB, NoSql  
-- work out with Gym And Running, climbing  
+- Work out with Gym And Running, Climbing  
 
 <!--
 **yky03/yky03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
