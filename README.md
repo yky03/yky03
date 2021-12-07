@@ -7,7 +7,7 @@ I'm Jake and **Server BackEnd Developer**. korean name is **Giyeol Yang**.
 My brief profile is below.  
 
 🏫 **Education**
-- Hanshin University, Department of Computer software Engineering  ```2017-02~```    
+- Hanshin University, Department of Computer Engineering(Software)  ```2017-02~```    
 
 🌱 **certificate**
 - 정보처리기사(Engineer Information Processing)  
