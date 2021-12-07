@@ -2,7 +2,7 @@
 
 Thanks for coming to my github.  
 
-I'm Jake and **Server BackEnd Developer**. korean name is **Giyeol Yang**.  
+I'm Jake and **Server BackEnd Developer**, Korean name is **Giyeol Yang**.  
 
 My brief profile is below.  
 
