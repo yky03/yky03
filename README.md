@@ -4,12 +4,12 @@ Thanks for coming to my github.
 
 I'm Jake and **Server BackEnd Developer**, Korean name is **Giyeol Yang**.  
 
-My brief profile is below.  
+My brief **profile** is below.  
 
 🏫 **Education**
 - Hanshin University, Department of Computer Engineering(Software)  ```2017-02~```    
 
-🌱 **certificate**
+🌱 **Certificate**
 - 정보처리기사(Engineer Information Processing)  
 
 ⚡ **Interest**
