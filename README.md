@@ -18,7 +18,7 @@ My brief profile is below.
 - RDB, NoSql  
 - Work out with Gym And Running, Climbing  
 
-[![Giyeol's github stats](https://github-readme-stats.vercel.app/api?username=yky03)](https://github.com/anuraghazra/github-readme-stats)
+[![Giyeol's github stats](https://github-readme-stats.vercel.app/api?username=yky03&theme=redical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yky03/yky03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
