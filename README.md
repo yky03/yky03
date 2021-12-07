@@ -18,9 +18,6 @@ My brief profile is below.
 - RDB, NoSql  
 - work out with Gym And Running, climbing  
 
-### My Blog
-- https://blog.naver.com/ykycome00
-
 <!--
 **yky03/yky03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
