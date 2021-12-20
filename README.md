@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Thanks for coming to my github.  
 
 I'm Jake and **Server BackEnd Developer**, Korean name is **Giyeol Yang**.  
