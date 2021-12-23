@@ -14,7 +14,7 @@ My brief **profile** is below.
 - Problem Solving skills   
 - Spring with Java, Kotlin  
 - RDB, NoSql  
-- Work out with Gym and Running, Climbing  
+- Workout with Gym and Running, Climbing  
 
 [![Giyeol's github stats](https://github-readme-stats.vercel.app/api?username=yky03&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
